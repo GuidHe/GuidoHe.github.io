@@ -12,4 +12,3 @@ Füge unter den Titel eine Beschreibung deines Charakters (~30-50 Wörter) zur i
 * Item 7
 * Item 8
 * Item 9
-
