@@ -3,6 +3,8 @@
 
 Füge unter den Titel eine Beschreibung deines Charakters (~30-50 Wörter) zur index.md Datei hinzu. Hierfür sollst du Klartext schreiben, also ohne besondere Formatierungen oder Github Flavoured Markdown.
 
+
+Charakter Eigenschaften
 * Item 1
 * Item 2
 * Item 3
@@ -12,7 +14,7 @@ Füge unter den Titel eine Beschreibung deines Charakters (~30-50 Wörter) zur i
 * Item 7
 * Item 8
 * Item 9
-
+* Item 9
 
 > I’ve always been more interested
 > in the future than in the past.
