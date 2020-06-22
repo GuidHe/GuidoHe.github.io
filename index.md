@@ -15,9 +15,3 @@ Charakter Eigenschaften
 * Item 8
 * Item 9
 * Item 9
-
-> I’ve always been more interested
-> in the future than in the past.
-
-
-<img src="https://s3.xopic.de/openhpi-public/courses/7cZWaATaTjbQ4phWCr6tg3/rtfiles/4q6wOLeLWYMu5syPwPlVPR/85002346_267b8e5c6c_o.jpg"/>
